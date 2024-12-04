@@ -1,0 +1,4 @@
+- Git tracks changes to files over time and allows multiple developers to work on the same project without overriding each other's work;
+- It enables you to commit changes, create branches and merge updates keeping a complete history of every version of code
+- GitHub acts as a hosting service for Git repositories offering a cloud-based platform collaborate on Git repositories track code history and handle pull requests
+
