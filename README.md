@@ -14,4 +14,5 @@ use branches and suggestive names
 GitHub allows you to resolve merge conflitcs remotely and in general it has a very user friendly interface
 GitHub allows collaboration between developers that work on the same project
 automatically generates emails for review, access boundaries that you can set up for your project, git commands not only increase performance but also project security and quality of code
-conflicts arise when two people work on the same file and have changes the same lines or if one developer deleted a file and another one modified the same file; 
+conflicts arise when two people work on the same file and have changes the same lines or if one developer deleted a file and another one modified the same file;
+this is so cool! I really started to enjoy this learning process! 
